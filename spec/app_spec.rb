@@ -19,7 +19,7 @@ describe "Application" do
     end
 
     it "Helloと出力する" do
-      expect(last_response.body).to eq("Hello, WEB+DB PRESS!!")
+      expect(last_response.body).to eq("Hello, WEB+DB PRESS!")
     end
   end
 end
