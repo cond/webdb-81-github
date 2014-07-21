@@ -3,5 +3,5 @@
 require 'sinatra'
 
 get '/' do
-  "Hello, World!"
+  "Hello, WEB+DB PRESS!!"
 end
